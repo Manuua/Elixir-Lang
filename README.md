@@ -1,5 +1,9 @@
 <h1> Elixir-Lang: Primeiros Passos </h1>
 
+<h3> Instalação do Elixir</h3>
+
+<pre> <code>brew install Elixir</code></pre>
+
 <h3> Instalação de Dependências </h3>
 
 Para começar a explorar a linguagem Elixir, é necessário configurar o ambiente de desenvolvimento. 
