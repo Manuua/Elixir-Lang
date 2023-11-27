@@ -17,7 +17,7 @@ O asdf é uma ferramenta versátil que facilita a instalação e gerenciamento d
 <h3>Instalação do asdf</h3>
 
 
-    <code>git clone https://github.com/asdf-vm/asdf.git ~/.asdf --branch v0.13.1</code>
+    git clone https://github.com/asdf-vm/asdf.git ~/.asdf --branch v0.13.1
 
 
 Este comando irá clonar o repositório asdf-vm/asdf na versão v0.13.1 para o diretório ~/.asdf.
@@ -25,3 +25,7 @@ Este comando irá clonar o repositório asdf-vm/asdf na versão v0.13.1 para o d
 Agora, o ambiente está pronto para instalar e gerenciar as versões necessárias do OTP e Elixir.
 
 Lembre-se de consultar a documentação oficial do asdf para obter informações detalhadas sobre seu uso: asdf-vm/asdf.
+
+<h2> Primerio Hello World</h2>
+
+<pre> <code>elixir hello.exs</code></pre>
