@@ -13,7 +13,8 @@ O asdf é uma ferramenta versátil que facilita a instalação e gerenciamento d
 <h3>Instalação do asdf</h3>
 
 
-git clone https://github.com/asdf-vm/asdf.git ~/.asdf --branch v0.13.1
+    <code>git clone https://github.com/asdf-vm/asdf.git ~/.asdf --branch v0.13.1</code>
+
 
 Este comando irá clonar o repositório asdf-vm/asdf na versão v0.13.1 para o diretório ~/.asdf.
 
