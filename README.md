@@ -52,5 +52,8 @@ para utilizarmos nossa função hello o world
 
 Os () são opcionais podemos usar ou não a função irá funcionar da mesma forma, porém os parênteses deixa mais intuitivo.
 
+Ao adicionar coisas novas precisamos recopilar para utilizamos os novos blocos de código 
+<pre> <code>recompile</code></pre>
+
 
 
