@@ -50,5 +50,7 @@ para utilizarmos nossa função hello o world
 
 <pre> <code>[nome do modulo].[nomeda função]()</code></pre>
 
+Os () são opcionais podemos usar ou não a função irá funcionar da mesma forma, porém os parênteses deixa mais intuitivo.
+
 
 
