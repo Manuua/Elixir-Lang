@@ -42,3 +42,13 @@ Documentação oficial do asdf sobre seu uso: asdf-vm/asdf.
 Mix é uma ferramenta de linha de comando que integra o ecossistema Elixir e a utilizamos para gerenciar uma porção de coisas diferentes no nosso código.
 <pre> <code>mix new [nome do projeto]</code></pre>
 
+Para copilar automáticamente o código podemos utilizar o 
+
+<pre> <code>iex -S mix</code></pre>
+
+para utilizarmos nossa função hello o world 
+
+<pre> <code>[nome do modulo].[nomeda função]()</code></pre>
+
+
+
