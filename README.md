@@ -36,3 +36,9 @@ Documentação oficial do asdf sobre seu uso: asdf-vm/asdf.
 <h2> Primerio Hello World</h2>
 
 <pre> <code>elixir hello.exs</code></pre>
+
+<h2>Caso queria uma estrutura já pronta</h2>
+
+Mix é uma ferramenta de linha de comando que integra o ecossistema Elixir e a utilizamos para gerenciar uma porção de coisas diferentes no nosso código.
+<pre> <code>mix new [nome do projeto]</code></pre>
+
